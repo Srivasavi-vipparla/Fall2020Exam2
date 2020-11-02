@@ -12,7 +12,7 @@ package Question5;
 public class Staff extends Employee {
 // declaring private instance variables
     private String title;
-//parameterized constructor
+////Inializing instance variables
     public Staff(String title, String office, double salary, String dateHired, String name, String address, String phoneNumber, String email) {
         super(office, salary, dateHired, name, address, phoneNumber, email);
         this.title = title;
