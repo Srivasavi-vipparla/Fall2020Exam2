@@ -16,7 +16,7 @@ public class Loan {
     private String loan_type;
     private double interest;
     private int timePeriodinyears;
-// parameterized constructor
+// //Inializing instance variables
     public Loan(long loan_amount, String bank_name, String loan_type, double interest, int timePeriodinyears) {
 
         this.loan_amount = loan_amount;
