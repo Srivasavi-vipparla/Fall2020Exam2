@@ -14,7 +14,7 @@ public class Employee extends Person {
     private String office;
     private double salary;
     private String dateHired;
-//parameterized constructor
+////Inializing instance variables
     public Employee(String office, double salary, String dateHired, String name, String address, String phoneNumber, String email) {
         super(name, address, phoneNumber, email);
         this.office = office;
