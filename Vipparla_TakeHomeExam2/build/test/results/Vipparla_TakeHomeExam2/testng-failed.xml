@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Vipparla_TakeHomeExam2]">
+  <test name="TestNG tests(failed)">
+    <classes>
+      <class name="Question6.TriangleNGTest">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="setUpMethod"/>
+          <include name="testGetArea"/>
+          <include name="tearDownClass"/>
+          <include name="tearDownMethod"/>
+        </methods>
+      </class> <!-- Question6.TriangleNGTest -->
+    </classes>
+  </test> <!-- TestNG tests(failed) -->
+</suite> <!-- Failed suite [Vipparla_TakeHomeExam2] -->
