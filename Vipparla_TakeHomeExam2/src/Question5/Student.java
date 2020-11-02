@@ -14,7 +14,7 @@ public class Student extends Person {
     private char grade;
     //creating a constant variable
     private static final String STUDENTSTATUS = "Graduate";
-//parameterized constructor
+////Inializing instance variables
     public Student(char grade, String name, String address, String phoneNumber, String email) {
         super(name, address, phoneNumber, email);
         this.grade = grade;
