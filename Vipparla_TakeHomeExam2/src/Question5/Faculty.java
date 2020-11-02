@@ -13,7 +13,7 @@ public class Faculty extends Employee {
 // declaring private instance variables
     private double officeHours;
     private int teachingSubjectsCount;
-//parameterized constructor
+////Inializing instance variables
     public Faculty(double officeHours, int teachingSubjectsCount, String office, double salary, String dateHired, String name, String address, String phoneNumber, String email) {
         super(office, salary, dateHired, name, address, phoneNumber, email);
         this.officeHours = officeHours;
