@@ -15,7 +15,7 @@ public class Person {
     private String address;
     private String phoneNumber;
     private String email;
-// parameterized constructor
+ //Inializing instance variables
     public Person(String name, String address, String phoneNumber, String email) {
         this.name = name;
         this.address = address;
