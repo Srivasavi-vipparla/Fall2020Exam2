@@ -12,7 +12,7 @@ package Question3;
 public class Circle {
     // declaring private instance variables
     private double radius, diameter;
-    // parameterized constructor
+    // //Inializing instance variables
     public Circle(double radius, double diameter) {
         this.radius = radius;
         this.diameter = diameter;
